@@ -1,0 +1,20 @@
+
+Employee / Customer Data Analysis
+
+!. Problem:
+To analyse employee and customer data.
+
+2. Data:
+Employee and customer datasets.
+
+3. Key Insights:
+- Insight 1:
+- Insight 2:
+- Insight 3: 
+
+4. Recommendations:
+- Recommendation 1:
+- Recommendation 2:
+
+5. Limitations:
+The analysis is based on the available dataset.
